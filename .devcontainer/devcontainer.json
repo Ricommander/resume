@@ -1,0 +1,20 @@
+{
+  "name": "RenderCV Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "mounts": [
+  "source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind",
+  "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "James-Yu.latex-workshop",
+    "redhat.vscode-yaml"
+  ],
+  "postCreateCommand": "pip install rendercv",
+  "remoteUser": "vscode"
+}
