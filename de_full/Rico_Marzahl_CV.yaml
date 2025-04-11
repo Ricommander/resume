@@ -25,7 +25,7 @@ cv:
         date:
         start_date: 2020-04
         end_date: 2025-04
-        location: Stuttgart, Germany
+        location: Stuttgart
         summary: '*Erfolgreicher Product Owner, der agile Projekte leitet und mit KI-gestützten Tools innovative CI/CD-Lösungen liefert.*'
         highlights:
           - 'Erfolgreiche Leitung wichtiger agiler Projekte mit einem jährlichen Budget von bis zu ***1,4 Mio. €*** pro Projekt, wobei die Projekte durchschnittlich ***10 %*** unter Budget abgeschlossen wurden:'
@@ -43,7 +43,7 @@ cv:
         date:
         start_date: 2011-12
         end_date: 2020-03
-        location: Böblingen, Germany
+        location: Böblingen
         summary: '*Erfahrener Product Owner mit agiler Expertise, der Produktvisionen erfolgreich umsetzt und Testprozesse optimiert.*'
         highlights:
           - 'Entwicklung und Abstimmung mehrerer klarer ***Produktvisionen*** für Teams und Budgetverantwortliche.'
@@ -86,7 +86,7 @@ cv:
         date:
         start_date: 2011-01
         end_date: 2011-11
-        location: Böblingen, Germany
+        location: Böblingen
         summary: '*Experte in Testautomatisierung und Framework-Entwicklung, der Testprozesse optimiert und effiziente Lösungen für Softwarequalität liefert.*'
         highlights:
           - 'Erweiterung und Wartung des street-director - ***Testframeworks*** zur Anpassung an sich weiterentwickelnde Projektanforderungen.'
@@ -109,7 +109,7 @@ cv:
         date:
         start_date: 2007-10
         end_date: 2010-12
-        location: Erlangen, Germany
+        location: Erlangen
         summary: '*Erfahrener Testentwickler, der funktionale und Performance-Tests durchführt und Testwerkzeuge zur Effizienzsteigerung entwickelt.*'
         highlights:
           - 'Entwicklung und Durchführung von ***funktionalen, Performance- und Stresstests*** zur Sicherstellung der Systemzuverlässigkeit.'
@@ -127,7 +127,7 @@ cv:
         date:
         start_date: 2006-04
         end_date: 2007-09
-        location: Waiblingen, Germany
+        location: Waiblingen
         summary: '*Entwicklung und Implementierung einer anpassbaren Web-Engine*'
         highlights:
           - 'Entwicklung und Implementierung einer anpassbaren ***Web-Engine*** mit PHP, HTML, CSS, JavaScript und SQL zur Erstellung maßgeschneiderter Kundenwebseiten.'
@@ -137,7 +137,7 @@ cv:
         date:
         start_date: 2006-03
         end_date: 2006-03
-        location: Waiblingen, Germany
+        location: Waiblingen
         summary: '*Praktikum*'
         highlights: 
     ausbildung:
@@ -147,21 +147,21 @@ cv:
         date:
         start_date: 2003-09
         end_date: 2006-02
-        location: Wäschenbeuren, Germany
+        location: Wäschenbeuren
       - institution: Max-Eyth-Schule
         area: Staatlich geprüfter informations- und kommunikationstechnischer Assistent
         degree: Ausbildung
         date:
         start_date: 2001-09
         end_date: 2003-08
-        location: Kirchheim, Germany
+        location: Kirchheim
       - institution: Berufsfachschule Otto-Umfrid
         area: Farbe und Gestaltung
         degree: Realschulabschluss
         date:
         start_date: 1999-09
         end_date: 2001-08
-        location: Nürtingen, Germany
+        location: Nürtingen
     skills:
       - label: Programming
         details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
