@@ -1,12 +1,14 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: Rico.Marzahl@gmail.com
-  phone: +49-173-301-2234
-  website:
+  email: 
+  phone: 
+  website: https://github.com/Ricommander/resume/tree/rico_marzahl
   social_networks:
     - network: LinkedIn
       username: rico-marzahl
+    - network: GitHub
+      username: Ricommander
   sections:
     berufliches_profil:
       - 'Erfahrener Product Owner und Automatisierungsexperte mit über 17 Jahren Expertise in Softwareentwicklung, Qualitätssicherung und agilen Methoden. Nachgewiesene Fähigkeit zur Leitung technischer Projekte als Product Owner, Umsetzung von Kundenanforderungen sowie Implementierung von DevOps-Strategien (Everything as Code (EaC), Automatisierung, Monitoring). Erfolgreich in der Entwicklung technischer Lösungen, die durch effektive Kommunikation und strategisches Denken optimal auf geschäftliche Anforderungen abgestimmt sind.'
@@ -28,7 +30,7 @@ cv:
         location: Stuttgart
         summary: '*Erfolgreicher Product Owner, der agile Projekte leitet und mit KI-gestützten Tools innovative CI/CD-Lösungen liefert.*'
         highlights:
-          - 'Erfolgreiche Leitung wichtiger agiler Projekte mit einem jährlichen Budget von bis zu ***1,4 Mio. €*** pro Projekt, wobei die Projekte durchschnittlich ***10 %*** unter Budget abgeschlossen wurden:'
+          - 'Leitung der folgenden wichtigen agilen Projekte die alle erfolgreich unter Budget angeschlossen wurden:'
           - '***Continental – Continuous Integration Platform (Conti-CIP)*** (02/2020–01/2023): Entwicklung und Optimierung von CI-Pipelines für Qualitätssicherung, Berichterstellung und Builds.'
           - '***MBition – Test Automation (MBition-TAU)*** (01/2021–01/2023): Neuentwicklung einer CI-Engine für Qualitätsprüfungen, Richtlinien, Monitoring-Dashboards, Hardware-Flashing und Testfallentwicklung.'
           - '***Elektrobit – Simplifiers (EB-Simplifiers)*** (02/2023–Present): Entwicklung einer Plattform für vereinheitlichte Entwicklungs- und CI-Umgebungen mit Shift-Left Ansatz.'

@@ -10,8 +10,8 @@ RUN apt-get update && apt-get install -y \
 # Create the vscode user
 RUN useradd -ms /bin/bash vscode
 
-# Install rendercv
-RUN pip install "rendercv[full]"
+# Install rendercv and PyYAML
+RUN pip install "rendercv[full]" PyYAML
 
 # Set the working directory
 WORKDIR /workspace
