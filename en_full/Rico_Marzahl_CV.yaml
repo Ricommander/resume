@@ -5,160 +5,234 @@ cv:
   phone: 
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
   social_networks:
-    - network: LinkedIn
-      username: rico-marzahl
-    - network: GitHub
-      username: Ricommander
+  - network: LinkedIn
+    username: rico-marzahl
+  - network: GitHub
+    username: Ricommander
   sections:
     professional_profile:
-      - 'Experienced Product Owner and automation expert with over 17 years of expertise in software development, quality assurance, and agile methodologies. Proven ability to lead technical projects as a Product Owner, implement customer requirements, and execute DevOps strategies (Everything as Code (EaC), automation, monitoring). Successful in developing technical solutions that are optimally aligned with business requirements through effective communication and strategic thinking.'
+    - Experienced Product Owner and automation expert with over 17 years of expertise
+      in software development, quality assurance, and agile methodologies. Proven
+      ability to lead technical projects as a Product Owner, implement customer requirements,
+      and execute DevOps strategies (Everything as Code (EaC), automation, monitoring).
+      Successful in developing technical solutions that are optimally aligned with
+      business requirements through effective communication and strategic thinking.
     core_competencies:
-      - label: 'Product Owner'
-        details: 'Cost-benefit optimization, backlog management, stakeholder management, product vision, agile methodologies (SAFe, Scrum, Kanban)'
-      - label: 'DevOps'
-        details: 'Automation strategies, monitoring, Everything as Code (EaC), CI/CD, software development environments'
-      - label: 'Quality Assurance'
-        details: 'Test automation, comprehensive test strategies (performance, stress, functionality), hardware integration'
-      - label: 'Effective Communication'
-        details: 'Presentations, problem-solving, analytical and solution-oriented thinking'
+    - label: Product Owner
+      details: Cost-benefit optimization, backlog management, stakeholder management,
+        product vision, agile methodologies (SAFe, Scrum, Kanban)
+    - label: DevOps
+      details: Automation strategies, monitoring, Everything as Code (EaC), CI/CD,
+        software development environments
+    - label: Quality Assurance
+      details: Test automation, comprehensive test strategies (performance, stress,
+        functionality), hardware integration
+    - label: Effective Communication
+      details: Presentations, problem-solving, analytical and solution-oriented thinking
     professional_experience:
-      - company: Elektrobit Automotive GmbH
-        position: Expert | Product Owner
-        date:
-        start_date: 2020-04
-        end_date: 2025-04
-        location: Stuttgart
-        summary: '*Successful Product Owner leading agile projects and delivering innovative CI/CD solutions with AI-powered tools.*'
-        highlights:
-          - 'Led the following important agile projects, all completed successfully under budget:'
-          - 'Development and optimization of ***CI pipelines*** for quality assurance, reporting, and builds (Conti-CIP, MBition-TAU).'
-          - 'Development of a platform for ***unified development and CI environments*** (EB-Simplifiers).'
-          - 'Refactoring of a ***central software unit*** to standardize module and app management (MB-SWAF).'
-          - 'Analysis of ***customer requirements*** and semi-automated creation of tailored proposals for CI/CD solutions.'
-          - 'Development of tools for semi-automated proposal creation using ***artificial intelligence (AI)***.'
-          - 'Delivering compelling ***presentations*** on technical concepts, project progress, and results for stakeholders.'
-      - company: Elektrobit Automotive GmbH
-        position: Senior Software Developer | Product Owner
-        date:
-        start_date: 2011-12
-        end_date: 2020-03
-        location: Böblingen
-        summary: '*Experienced Product Owner with agile expertise, successfully implementing product visions and optimizing test processes.*'
-        highlights:
-          - 'Development and alignment of multiple clear ***product visions*** for teams and budget stakeholders.'
-          - 'Planning, coordination, and ***establishment of a development process*** (Lean Development Model (LDM)).'
-          - 'Effective communication with stakeholders to ensure everyone is on the same page.'
-          - 'Creation and alignment of ***concepts, strategies, and roadmaps*** for teams and projects.'
-          - 'Agile management of requirement implementation (***acceptance criteria, Definition of Ready (DoR)***) and technical topics, as well as control of completed tasks (***Review, Definition of Done (DoD)***).'
-          - 'Collection, analysis, and prioritization of requirements to achieve project goals.'
-          - 'Management of the ***product backlog*** to ensure an efficient workflow with seamless transitions between product increments (PI’s/Product Increments).'
-          - 'Planning and ***estimation of work packages*** in collaboration with stakeholders and team members.'
-          - 'Creation and coordination of tasks with acceptance criteria and DoR in ***collaboration*** with stakeholders and team members.'
-          - 'Further development of test structures, ***automation pipelines (Continuous Testing)***, test evaluations, and test reports.'
-          - 'Optimization of verification tests for ***curve-entry analyses*** using object recognition technologies (Bird’s-Eye-View accelerated by ***96%***; overall performance of CE analysis improved by ***69%***).'
-          - 'Introduction of processes to improve code quality and documentation (via ***Quality Gates and Quality Policies***).'
-          - 'Coordination of the ***evaluation of commercial test tools*** to increase test efficiency and establish complete traceability between requirements and test results.'
-          - 'Planning, alignment, and implementation of ***Lua-based tests*** for various projects.'
-          - 'Conducting ***performance tests*** across multiple projects and analyzing and aligning results with software developers.'
-          - 'Expanding the application scope of ***test frameworks*** for broader project integration.'
-          - 'Development of ***unified libraries*** for integrating the street-director SDK (maintenance efforts reduced by a factor of ***3***).'
-          - 'Improvement of various tools within the test framework to extend functionality and optimize speed.'
-          - 'Planning, coordination, and ***technical leadership*** for various teams.'
-          - 'Onboarding, mentoring, and ***supporting new employees*** to ensure smooth onboarding.'
-          - 'Supporting projects (e.g., MIBS2B, MIBH) in ***test execution and evaluation*** to ensure project goals are met.'
-          - 'Implementing ***continuous improvement*** measures to increase efficiency and quality of results across various teams.'
-          - 'Planning, coordination, and implementation of the commercial test management system ***“Silk Central Test Management (SCTM)”***.'
-          - 'Planning the technical implementation of a ***test hardware management system*** for SCTM.'
-          - 'Conducting compelling ***presentations*** on concepts, progress reports, results, and key insights for stakeholders.'
-      - company: Elektrobit Automotive GmbH
-        position: Software Developer
-        date:
-        start_date: 2011-01
-        end_date: 2011-11
-        location: Böblingen
-        summary: '*Expert in test automation and framework development, optimizing testing processes and delivering efficient solutions for software quality.*'
-        highlights:
-          - 'Extension and maintenance of the street-director - ***Testframework*** to adapt to evolving project requirements.'
-          - 'Porting the test framework from ***Win32 to Linux/QNX environments*** to improve compatibility.'
-          - 'Development and optimization of software for ***test automation*** to increase efficiency.'
-          - 'Improvement of test tools to optimize the ***distribution of devices*** during test runtime.'
-          - '***Redesign of the test structure*** to adapt to changing requirements and project frameworks.'
-          - 'Creation, execution, evaluation, and documentation of ***automated tests*** for various projects.'
-          - 'Development of test applications for ***performance and stress tests*** to ensure system reliability.'
-          - '***Parallelization of tests*** on a single test computer to optimize resource utilization.'
-          - 'Setup of devices from the MISS project for ***automated test pipelines***.'
-          - 'Execution of ***memory measurements*** as part of the MISS project to ensure compliance with project-specific memory limits.'
-          - 'Conception and development of a web-based ***job execution system*** to automate test tasks.'
-          - 'Introduction of a new ***software development process*** to improve efficiency and collaboration between teams.'
-          - 'Integration of target hardware into the test framework for ***hardware-based test runs***.'
-          - 'Support in ***testing and quality assurance measures*** for navigation projects in the automotive sector, to ensure project goals.'
-          - '***Evaluation and analysis*** of various test results to identify and coordinate software errors with developers.'
-      - company: Elektrobit Automotive GmbH
-        position: Software Developer
-        date:
-        start_date: 2007-10
-        end_date: 2010-12
-        location: Erlangen
-        summary: '*Experienced test developer performing functional and performance tests and developing test tools to increase efficiency.*'
-        highlights:
-          - 'Development and execution of ***functional, performance, and stress tests*** to ensure system reliability.'
-          - 'Performing performance tests for the ***AudiRMC and MIBS projects*** and coordinating the results with the project managers and software developers to improve the speed of route calculation.'
-          - 'Execution of functional, performance, and stress tests for the ***Falk project*** to validate system stability and speed.'
-          - 'Conception and implementation of functional ***maneuver tests*** to improve test accuracy.'
-          - 'Conception and implementation of an algorithm for ***validating route calculations*** in the street-director project in C/C++.'
-          - 'Optimization and maintenance of the existing street-director test structure to adapt to evolving project requirements.'
-          - 'Integration of devices into the test framework for ***hardware-based test runs***.'
-          - 'Development of a test tool for ***automatic device distribution*** during runtime to increase resource efficiency.'
-          - 'Successful integration support for the ***MIBH project*** to achieve project goals.'
-          - 'Expansion of ***performance and stress test reports*** to provide software developers with comprehensive analyses for troubleshooting and speed optimization.'
-      - company: Forschung Entwicklung Technik Service GmbH
-        position: Web Developer
-        date:
-        start_date: 2006-04
-        end_date: 2007-09
-        location: Waiblingen
-        summary: '*Development and implementation of a customizable web engine*'
-        highlights:
-          - 'Development and implementation of a customizable ***web engine*** using PHP, HTML, CSS, JavaScript, and SQL for creating customized customer websites.'
-          - 'Successful implementation of ***customer projects*** through the design and programming of powerful, database-driven websites with modern web technologies and the mentioned web engine.'
-      - company: Forschung Entwicklung Technik Service GmbH
-        position: Web Developer (Internship)
-        date:
-        start_date: 2006-03
-        end_date: 2006-03
-        location: Waiblingen
-        summary: '*Internship*'
-        highlights:
-
+    - company: Elektrobit Automotive GmbH
+      position: Expert | Product Owner
+      date: null
+      start_date: 2020-04
+      end_date: 2025-04
+      location: Stuttgart
+      summary: '*Successful Product Owner leading agile projects and delivering innovative
+        CI/CD solutions with AI-powered tools.*'
+      highlights:
+      - 'Led the following important agile projects, all completed successfully under
+        budget:'
+      - Development and optimization of ***CI pipelines*** for quality assurance,
+        reporting, and builds (Conti-CIP, MBition-TAU).
+      - Development of a platform for ***unified development and CI environments***
+        (EB-Simplifiers).
+      - Refactoring of a ***central software unit*** to standardize module and app
+        management (MB-SWAF).
+      - Analysis of ***customer requirements*** and semi-automated creation of tailored
+        proposals for CI/CD solutions.
+      - Development of tools for semi-automated proposal creation using ***artificial
+        intelligence (AI)***.
+      - Delivering compelling ***presentations*** on technical concepts, project progress,
+        and results for stakeholders.
+    - company: Elektrobit Automotive GmbH
+      position: Senior Software Developer | Product Owner
+      date: null
+      start_date: 2011-12
+      end_date: 2020-03
+      location: Böblingen
+      summary: '*Experienced Product Owner with agile expertise, successfully implementing
+        product visions and optimizing test processes.*'
+      highlights:
+      - Development and alignment of multiple clear ***product visions*** for teams
+        and budget stakeholders.
+      - Planning, coordination, and ***establishment of a development process*** (Lean
+        Development Model (LDM)).
+      - Effective communication with stakeholders to ensure everyone is on the same
+        page.
+      - Creation and alignment of ***concepts, strategies, and roadmaps*** for teams
+        and projects.
+      - Agile management of requirement implementation (***acceptance criteria, Definition
+        of Ready (DoR)***) and technical topics, as well as control of completed tasks
+        (***Review, Definition of Done (DoD)***).
+      - Collection, analysis, and prioritization of requirements to achieve project
+        goals.
+      - Management of the ***product backlog*** to ensure an efficient workflow with
+        seamless transitions between product increments (PI’s/Product Increments).
+      - Planning and ***estimation of work packages*** in collaboration with stakeholders
+        and team members.
+      - Creation and coordination of tasks with acceptance criteria and DoR in ***collaboration***
+        with stakeholders and team members.
+      - Further development of test structures, ***automation pipelines (Continuous
+        Testing)***, test evaluations, and test reports.
+      - Optimization of verification tests for ***curve-entry analyses*** using object
+        recognition technologies (Bird’s-Eye-View accelerated by ***96%***; overall
+        performance of CE analysis improved by ***69%***).
+      - Introduction of processes to improve code quality and documentation (via ***Quality
+        Gates and Quality Policies***).
+      - Coordination of the ***evaluation of commercial test tools*** to increase
+        test efficiency and establish complete traceability between requirements and
+        test results.
+      - Planning, alignment, and implementation of ***Lua-based tests*** for various
+        projects.
+      - Conducting ***performance tests*** across multiple projects and analyzing
+        and aligning results with software developers.
+      - Expanding the application scope of ***test frameworks*** for broader project
+        integration.
+      - Development of ***unified libraries*** for integrating the street-director
+        SDK (maintenance efforts reduced by a factor of ***3***).
+      - Improvement of various tools within the test framework to extend functionality
+        and optimize speed.
+      - Planning, coordination, and ***technical leadership*** for various teams.
+      - Onboarding, mentoring, and ***supporting new employees*** to ensure smooth
+        onboarding.
+      - Supporting projects (e.g., MIBS2B, MIBH) in ***test execution and evaluation***
+        to ensure project goals are met.
+      - Implementing ***continuous improvement*** measures to increase efficiency
+        and quality of results across various teams.
+      - Planning, coordination, and implementation of the commercial test management
+        system ***“Silk Central Test Management (SCTM)”***.
+      - Planning the technical implementation of a ***test hardware management system***
+        for SCTM.
+      - Conducting compelling ***presentations*** on concepts, progress reports, results,
+        and key insights for stakeholders.
+    - company: Elektrobit Automotive GmbH
+      position: Software Developer
+      date: null
+      start_date: 2011-01
+      end_date: 2011-11
+      location: Böblingen
+      summary: '*Expert in test automation and framework development, optimizing testing
+        processes and delivering efficient solutions for software quality.*'
+      highlights:
+      - Extension and maintenance of the street-director - ***Testframework*** to
+        adapt to evolving project requirements.
+      - Porting the test framework from ***Win32 to Linux/QNX environments*** to improve
+        compatibility.
+      - Development and optimization of software for ***test automation*** to increase
+        efficiency.
+      - Improvement of test tools to optimize the ***distribution of devices*** during
+        test runtime.
+      - '***Redesign of the test structure*** to adapt to changing requirements and
+        project frameworks.'
+      - Creation, execution, evaluation, and documentation of ***automated tests***
+        for various projects.
+      - Development of test applications for ***performance and stress tests*** to
+        ensure system reliability.
+      - '***Parallelization of tests*** on a single test computer to optimize resource
+        utilization.'
+      - Setup of devices from the MISS project for ***automated test pipelines***.
+      - Execution of ***memory measurements*** as part of the MISS project to ensure
+        compliance with project-specific memory limits.
+      - Conception and development of a web-based ***job execution system*** to automate
+        test tasks.
+      - Introduction of a new ***software development process*** to improve efficiency
+        and collaboration between teams.
+      - Integration of target hardware into the test framework for ***hardware-based
+        test runs***.
+      - Support in ***testing and quality assurance measures*** for navigation projects
+        in the automotive sector, to ensure project goals.
+      - '***Evaluation and analysis*** of various test results to identify and coordinate
+        software errors with developers.'
+    - company: Elektrobit Automotive GmbH
+      position: Software Developer
+      date: null
+      start_date: 2007-10
+      end_date: 2010-12
+      location: Erlangen
+      summary: '*Experienced test developer performing functional and performance
+        tests and developing test tools to increase efficiency.*'
+      highlights:
+      - Development and execution of ***functional, performance, and stress tests***
+        to ensure system reliability.
+      - Performing performance tests for the ***AudiRMC and MIBS projects*** and coordinating
+        the results with the project managers and software developers to improve the
+        speed of route calculation.
+      - Execution of functional, performance, and stress tests for the ***Falk project***
+        to validate system stability and speed.
+      - Conception and implementation of functional ***maneuver tests*** to improve
+        test accuracy.
+      - Conception and implementation of an algorithm for ***validating route calculations***
+        in the street-director project in C/C++.
+      - Optimization and maintenance of the existing street-director test structure
+        to adapt to evolving project requirements.
+      - Integration of devices into the test framework for ***hardware-based test
+        runs***.
+      - Development of a test tool for ***automatic device distribution*** during
+        runtime to increase resource efficiency.
+      - Successful integration support for the ***MIBH project*** to achieve project
+        goals.
+      - Expansion of ***performance and stress test reports*** to provide software
+        developers with comprehensive analyses for troubleshooting and speed optimization.
+    - company: Forschung Entwicklung Technik Service GmbH
+      position: Web Developer
+      date: null
+      start_date: 2006-04
+      end_date: 2007-09
+      location: Waiblingen
+      summary: '*Development and implementation of a customizable web engine*'
+      highlights:
+      - Development and implementation of a customizable ***web engine*** using PHP,
+        HTML, CSS, JavaScript, and SQL for creating customized customer websites.
+      - Successful implementation of ***customer projects*** through the design and
+        programming of powerful, database-driven websites with modern web technologies
+        and the mentioned web engine.
+    - company: Forschung Entwicklung Technik Service GmbH
+      position: Web Developer (Internship)
+      date: null
+      start_date: 2006-03
+      end_date: 2006-03
+      location: Waiblingen
+      summary: '*Internship*'
+      highlights: null
     education:
-      - institution: Process-Informatik Entwicklungsgesellschaft mbH
-        area: IT Specialist – Application Development
-        degree: Apprenticeship
-        date:
-        start_date: 2003-09
-        end_date: 2006-02
-        location: Wäschenbeuren
-      - institution: Max-Eyth-Schule
-        area: State-certified Information and Communication Technology Assistant
-        degree: Apprenticeship
-        date:
-        start_date: 2001-09
-        end_date: 2003-08
-        location: Kirchheim
-      - institution: Berufsfachschule Otto-Umfrid
-        area: Color and Design
-        degree: Secondary School Certificate
-        date:
-        start_date: 1999-09
-        end_date: 2001-08
-        location: Nürtingen
+    - institution: Process-Informatik Entwicklungsgesellschaft mbH
+      area: IT Specialist – Application Development
+      degree: Apprenticeship
+      date: null
+      start_date: 2003-09
+      end_date: 2006-02
+      location: Wäschenbeuren
+    - institution: Max-Eyth-Schule
+      area: State-certified Information and Communication Technology Assistant
+      degree: Apprenticeship
+      date: null
+      start_date: 2001-09
+      end_date: 2003-08
+      location: Kirchheim
+    - institution: Berufsfachschule Otto-Umfrid
+      area: Color and Design
+      degree: Secondary School Certificate
+      date: null
+      start_date: 1999-09
+      end_date: 2001-08
+      location: Nürtingen
     skills:
-      - label: Programming
-        details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
-      - label: Tools
-        details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, Microsoft Power BI, MS Office
-      - label: Languages
-        details: 'German (native), English (fluent)'
+    - label: Programming
+      details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
+    - label: Tools
+      details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, Microsoft Power
+        BI, MS Office
+    - label: Languages
+      details: German (native), English (fluent)
 design:
   theme: engineeringclassic
   page:
@@ -228,34 +302,34 @@ design:
     education_entry:
       main_column_first_row_template: '**INSTITUTION**, AREA -- LOCATION'
       degree_column_template: '**DEGREE**'
-      degree_column_width: 1cm
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
+      degree_column_width: 3cm
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
       date_and_location_column_template: DATE
     normal_entry:
       main_column_first_row_template: '**NAME** -- **LOCATION**'
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
       date_and_location_column_template: DATE
     experience_entry:
       main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
       date_and_location_column_template: DATE
     publication_entry:
       main_column_first_row_template: '**TITLE**'
-      main_column_second_row_template: |-
-        AUTHORS
-        URL (JOURNAL)
-      main_column_second_row_without_journal_template: |-
-        AUTHORS
-        URL
-      main_column_second_row_without_url_template: |-
-        AUTHORS
-        JOURNAL
+      main_column_second_row_template: 'AUTHORS
+
+        URL (JOURNAL)'
+      main_column_second_row_without_journal_template: 'AUTHORS
+
+        URL'
+      main_column_second_row_without_url_template: 'AUTHORS
+
+        JOURNAL'
       date_and_location_column_template: DATE
 locale:
   language: en
@@ -270,32 +344,32 @@ locale:
   present: present
   to: –
   abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+  - May
+  - June
+  - July
+  - Aug
+  - Sept
+  - Oct
+  - Nov
+  - Dec
   full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
+  - January
+  - February
+  - March
+  - April
+  - May
+  - June
+  - July
+  - August
+  - September
+  - October
+  - November
+  - December
 rendercv_settings:
   date: '2025-04-12'
-  render_command:
+  render_command: null
   bold_keywords: []
