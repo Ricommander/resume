@@ -1,8 +1,8 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: 
-  phone: 
+  email: meinemail@postfach.de
+  phone: +49-173-333-4444
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
   social_networks:
   - network: LinkedIn
@@ -11,22 +11,23 @@ cv:
     username: Ricommander
   sections:
     professional_profile:
-    - Experienced Product Owner and automation expert with over 17 years of experience
+    - Experienced Product Owner and automation expert with over 17 years of expertise
       in software development, quality assurance, and agile methodologies (SAFe, Scrum,
-      Kanban). Proven ability to lead agile technical projects, implement customer
-      requirements, and execute DevOps strategies (automation, Everything as Code
-      (EaC)). Successful in developing technical solutions that are optimally aligned
-      with business requirements.
+      Kanban). Proven ability to lead technical projects as a Product Owner, implement
+      customer requirements, and execute DevOps strategies (Everything as Code (EaC),
+      automation, monitoring). Successful in developing technical solutions that are
+      optimally aligned with business requirements through effective communication
+      and strategic thinking.
     core_competencies:
     - label: Product Owner
       details: Cost-benefit optimization, backlog management, stakeholder management,
         product vision, agile methodologies (SAFe, Scrum, Kanban)
     - label: DevOps
-      details: CI/CD, monitoring (lead change time, user statistics), Everything as
-        Code (EaC)
+      details: Automation strategies, monitoring, and Everything as Code (EaC), CI/CD,
+        software development environments
     - label: Quality Assurance
       details: Test automation, comprehensive test strategies (performance, stress,
-        functionality), reporting
+        functionality), hardware integration
     - label: Effective Communication
       details: Presentations, problem-solving, analytical and solution-oriented thinking
     professional_experience:
@@ -39,49 +40,81 @@ cv:
       summary: '*Leading agile projects and developing innovative CI/CD solutions
         with AI-powered tools.*'
       highlights:
-      - Leading major agile projects with an annual budget of up to ***€1.4 million***,
-        completed on average ***10%*** under budget.
-      - Development and optimization of ***CI pipelines*** for quality assurance and
-        builds (Conti-CIP, MBition-TAU).
-      - Development of a platform for ***unified development and CI environments***
-        (EB-Simplifiers).
-      - Refactoring of a ***central software unit*** to standardize module and app
-        management (MB-SWAF).
-      - Analysis of customer requirements and ***semi-automated creation of proposals***
+      - 'Led the following key agile projects, all successfully completed under budget:'
+      - '**Continental – Continuous Integration Platform:** Development and optimization
+        of CI pipelines for quality assurance, reporting, and builds.'
+      - '**MBition – Test Automation:** New development of a CI engine for quality
+        checks, guidelines, monitoring dashboards, hardware flashing, and test case
+        development.'
+      - '**Elektrobit – Simplifiers:** Development of a platform for unified development
+        and CI environments with a shift-left approach.'
+      - '**Mercedes-Benz – Software Architecture Framework:** Refactoring of a central
+        software unit for standardizing module and app management.'
+      - Analysis of customer requirements and **semi-automated creation of proposals**
         for CI/CD solutions.
-      - Development of tools for proposal creation using ***artificial intelligence
-        (AI)***.
-      - Delivering compelling ***presentations*** on concepts and results for stakeholders.
+      - Development of tools for proposal creation using **artificial intelligence
+        (AI)**.
+      - Conducted compelling **presentations** on concepts and results for stakeholders.
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
     - company: Elektrobit Automotive GmbH
       position: Senior Software Developer | Product Owner
       date: null
       start_date: 2011-12
       end_date: 2020-03
       location: Böblingen
-      summary: '*Successful implementation of product visions and optimization of
-        test processes.*'
+      summary: '*Successfully implemented product visions and optimized test processes.*'
       highlights:
-      - Development of clear ***product visions*** and implementation of the agile
-        ***Lean Development Model (LDM)***.
-      - Implementation of requirements and management of ***backlogs***.
-      - Optimization of verification tests for ***curve-entry analyses*** (performance
-        improvement by ***69%***).
-      - Introduction of processes to improve code quality and documentation.
-      - Planning and implementation of ***Lua-based tests*** as well as execution
-        of ***performance tests***.
+      - Developed clear **product visions** and implemented the agile **Lean Development
+        Model (LDM)**.
+      - Fulfilled requirements and managed **backlogs**.
+      - Optimized verification tests for **curve-entry analyses** (performance improvement
+        by **69%**).
+      - Introduced processes to improve code quality and documentation.
+      - Planned and implemented **Lua-based tests** as well as conducted **performance
+        tests**.
     - company: Elektrobit Automotive GmbH
       position: Software Developer
       date: null
       start_date: 2007-10
       end_date: 2011-11
       location: Erlangen/Böblingen
-      summary: '*Expert in test automation and framework development.*'
+      summary: '*Automation of tests and framework development.*'
       highlights:
-      - Extension and maintenance of the street-director ***test framework***.
-      - Porting the test framework from Windows to Linux/QNX environments.
-      - Development of tools for ***test automation*** and optimization of resource
-        usage.
-      - Design and development of a web-based ***job execution system***.
+      - Extended and maintained the street-director **test framework**.
+      - Ported the test framework from Windows to Linux/QNX environments.
+      - Developed tools for **test automation** and optimized resource utilization.
+      - Designed and developed a web-based **job execution system**.
     education:
     - institution: Process-Informatik Entwicklungsgesellschaft mbH
       area: IT Specialist – Application Development
@@ -105,14 +138,14 @@ cv:
     - label: Languages
       details: German (native), English (fluent)
 design:
-  theme: engineeringclassic
+  theme: classic
   page:
     size: a4
     top_margin: 2cm
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: false
+    show_page_numbering: true
     show_last_updated_date: true
   colors:
     text: rgb(0, 0, 0)
@@ -129,11 +162,11 @@ design:
     date_and_location_column_alignment: right
   links:
     underline: false
-    use_external_link_icon: false
+    use_external_link_icon: true
   header:
     name_font_family: Raleway
     name_font_size: 30pt
-    name_bold: false
+    name_bold: true
     photo_width: 3.5cm
     vertical_space_between_name_and_connections: 0.7cm
     vertical_space_between_connections_and_first_section: 0.7cm
@@ -141,12 +174,12 @@ design:
     connections_font_family: Raleway
     separator_between_connections: ''
     use_icons_for_connections: true
-    alignment: left
+    alignment: center
   section_titles:
     type: with-parial-line
     font_family: Raleway
     font_size: 1.4em
-    bold: false
+    bold: true
     small_caps: false
     line_thickness: 0.5pt
     vertical_space_above: 0.5cm
@@ -163,7 +196,7 @@ design:
   highlights:
     bullet: •
     top_margin: 0.25cm
-    left_margin: 0cm
+    left_margin: 0.4cm
     vertical_space_between_highlights: 0.25cm
     horizontal_space_between_bullet_and_highlight: 0.5em
     summary_left_margin: 0cm
@@ -171,25 +204,31 @@ design:
     one_line_entry:
       template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, AREA -- LOCATION'
+      main_column_first_row_template: '**INSTITUTION**, AREA'
       degree_column_template: '**DEGREE**'
       degree_column_width: 3cm
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     normal_entry:
-      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_first_row_template: '**NAME**'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     experience_entry:
-      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_first_row_template: '**COMPANY**, POSITION'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     publication_entry:
       main_column_first_row_template: '**TITLE**'
       main_column_second_row_template: 'AUTHORS
@@ -241,6 +280,6 @@ locale:
   - November
   - December
 rendercv_settings:
-  date: '2025-04-12'
+  date: '2025-04-13'
   render_command: null
   bold_keywords: []

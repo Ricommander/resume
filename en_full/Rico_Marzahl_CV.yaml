@@ -1,8 +1,8 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: 
-  phone: 
+  email: meinemail@postfach.de
+  phone: +49-173-333-4444
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
   social_networks:
   - network: LinkedIn
@@ -12,17 +12,18 @@ cv:
   sections:
     professional_profile:
     - Experienced Product Owner and automation expert with over 17 years of expertise
-      in software development, quality assurance, and agile methodologies. Proven
-      ability to lead technical projects as a Product Owner, implement customer requirements,
-      and execute DevOps strategies (Everything as Code (EaC), automation, monitoring).
-      Successful in developing technical solutions that are optimally aligned with
-      business requirements through effective communication and strategic thinking.
+      in software development, quality assurance, and agile methodologies (SAFe, Scrum,
+      Kanban). Proven ability to lead technical projects as a Product Owner, implement
+      customer requirements, and execute DevOps strategies (Everything as Code (EaC),
+      automation, monitoring). Successful in developing technical solutions that are
+      optimally aligned with business requirements through effective communication
+      and strategic thinking.
     core_competencies:
     - label: Product Owner
       details: Cost-benefit optimization, backlog management, stakeholder management,
         product vision, agile methodologies (SAFe, Scrum, Kanban)
     - label: DevOps
-      details: Automation strategies, monitoring, Everything as Code (EaC), CI/CD,
+      details: Automation strategies, monitoring, and Everything as Code (EaC), CI/CD,
         software development environments
     - label: Quality Assurance
       details: Test automation, comprehensive test strategies (performance, stress,
@@ -36,22 +37,30 @@ cv:
       start_date: 2020-04
       end_date: 2025-04
       location: Stuttgart
-      summary: '*Successful Product Owner leading agile projects and delivering innovative
-        CI/CD solutions with AI-powered tools.*'
+      summary: '*Leading agile projects and developing innovative CI/CD solutions
+        with AI-powered tools.*'
       highlights:
-      - 'Led the following important agile projects, all completed successfully under
-        budget:'
-      - Development and optimization of ***CI pipelines*** for quality assurance,
-        reporting, and builds (Conti-CIP, MBition-TAU).
-      - Development of a platform for ***unified development and CI environments***
-        (EB-Simplifiers).
-      - Refactoring of a ***central software unit*** to standardize module and app
-        management (MB-SWAF).
-      - Analysis of ***customer requirements*** and semi-automated creation of tailored
-        proposals for CI/CD solutions.
-      - Development of tools for semi-automated proposal creation using ***artificial
-        intelligence (AI)***.
-      - Delivering compelling ***presentations*** on technical concepts, project progress,
+      - 'Led the following key agile projects, all successfully completed under budget:'
+      - '**Continental – Continuous Integration Platform (Conti-CIP)** (02/2020–01/2023):
+        Development and optimization of CI pipelines for quality assurance, reporting,
+        and builds.'
+      - '**MBition – Test Automation (MBition-TAU)** (01/2021–01/2023): New development
+        of a CI engine for quality checks, guidelines, monitoring dashboards, hardware
+        flashing, and test case development.'
+      - '**Elektrobit – Simplifiers (EB-Simplifiers)** (02/2023–04/2025): Development
+        of a platform for unified development and CI environments with a shift-left
+        approach.'
+      - '**Mercedes-Benz – Software Architecture Framework (MB-SWAF)** (03/2024–12/2024):
+        Refactoring of a central software unit for standardizing module and app management.'
+      - '**Coordination of invoicing** with customers to ensure accurate billing and
+        provide an early outlook on remaining budgets.'
+      - Identification of weaknesses and presentation of solutions **to secure follow-up
+        orders**.
+      - '**Analysis of customer requirements** and semi-automated creation of tailored
+        proposals for CI/CD solutions.'
+      - Development of tools for the semi-automated creation of CI/CD proposals using
+        **artificial intelligence (AI)**.
+      - Conducted compelling **presentations** on technical concepts, project progress,
         and results for stakeholders.
     - company: Elektrobit Automotive GmbH
       position: Senior Software Developer | Product Owner
@@ -59,129 +68,147 @@ cv:
       start_date: 2011-12
       end_date: 2020-03
       location: Böblingen
-      summary: '*Experienced Product Owner with agile expertise, successfully implementing
-        product visions and optimizing test processes.*'
+      summary: '*Successfully implemented product visions and optimized test processes.*'
       highlights:
-      - Development and alignment of multiple clear ***product visions*** for teams
-        and budget stakeholders.
-      - Planning, coordination, and ***establishment of a development process*** (Lean
-        Development Model (LDM)).
-      - Effective communication with stakeholders to ensure everyone is on the same
-        page.
-      - Creation and alignment of ***concepts, strategies, and roadmaps*** for teams
-        and projects.
-      - Agile management of requirement implementation (***acceptance criteria, Definition
-        of Ready (DoR)***) and technical topics, as well as control of completed tasks
-        (***Review, Definition of Done (DoD)***).
-      - Collection, analysis, and prioritization of requirements to achieve project
+      - Development and alignment of several clear **product visions** for teams and
+        budget stakeholders.
+      - Planning, coordination, and establishment of a **product development process**
+        (Lean Development Model (LDM)).
+      - Effective **communication with stakeholders** to ensure everyone is on the
+        same page.
+      - '**Creation and alignment of concepts, strategies, and roadmaps** for teams
+        and projects.'
+      - Agile management of requirement implementation **(acceptance criteria, Definition
+        of Ready (DoR))** and technical topics as well as review of completed tasks
+        **(Review, Definition of Done (DoD))**.
+      - Collection, analysis, and **prioritization of requirements** to achieve project
         goals.
-      - Management of the ***product backlog*** to ensure an efficient workflow with
-        seamless transitions between product increments (PI’s/Product Increments).
-      - Planning and ***estimation of work packages*** in collaboration with stakeholders
-        and team members.
-      - Creation and coordination of tasks with acceptance criteria and DoR in ***collaboration***
-        with stakeholders and team members.
-      - Further development of test structures, ***automation pipelines (Continuous
-        Testing)***, test evaluations, and test reports.
-      - Optimization of verification tests for ***curve-entry analyses*** using object
-        recognition technologies (Bird’s-Eye-View accelerated by ***96%***; overall
-        performance of CE analysis improved by ***69%***).
-      - Introduction of processes to improve code quality and documentation (via ***Quality
-        Gates and Quality Policies***).
-      - Coordination of the ***evaluation of commercial test tools*** to increase
-        test efficiency and establish complete traceability between requirements and
-        test results.
-      - Planning, alignment, and implementation of ***Lua-based tests*** for various
+      - '**Management of the product backlog** to ensure an efficient workflow with
+        seamless transitions between product increments (PIs/Product Increments).'
+      - '**Planning and estimation of work packages** in collaboration with stakeholders
+        and team members.'
+      - Creation and coordination of **tasks with acceptance criteria and DoR** in
+        collaboration with stakeholders and team members.
+      - Further development of test structures, automation pipelines (Continuous Testing),
+        test evaluations, and test reports.
+      - Optimization of verification tests for **curve-entry analyses** using object
+        recognition technologies (Bird’s-Eye-View accelerated by **96%**; overall
+        performance of CE analysis improved by **69%**).
+      - Introduction of processes to improve code quality and documentation (via Quality
+        Gates and Quality Policies).
+      - Coordination of the evaluation of commercial test tools to increase test efficiency
+        and ensure full traceability between requirements and test results.
+      - Planning, alignment, and implementation of **Lua-based tests** for various
         projects.
-      - Conducting ***performance tests*** across multiple projects and analyzing
+      - Conducting **performance tests** across multiple projects as well as analyzing
         and aligning results with software developers.
-      - Expanding the application scope of ***test frameworks*** for broader project
+      - Expansion of the application scope of test frameworks for broader project
         integration.
-      - Development of ***unified libraries*** for integrating the street-director
-        SDK (maintenance efforts reduced by a factor of ***3***).
-      - Improvement of various tools within the test framework to extend functionality
+      - '**Development of unified libraries** for the integration of the street-director
+        SDK (maintenance efforts reduced by a factor of **3**).'
+      - Improvement of various tools within the test framework to expand functionality
         and optimize speed.
-      - Planning, coordination, and ***technical leadership*** for various teams.
-      - Onboarding, mentoring, and ***supporting new employees*** to ensure smooth
-        onboarding.
-      - Supporting projects (e.g., MIBS2B, MIBH) in ***test execution and evaluation***
+      - Planning, coordination, and **technical leadership** for various teams.
+      - Onboarding, mentoring, and **supporting new employees** to ensure smooth onboarding.
+      - Supporting projects (e.g., MIBS2B, MIBH) in **test execution and evaluation**
         to ensure project goals are met.
-      - Implementing ***continuous improvement*** measures to increase efficiency
-        and quality of results across various teams.
-      - Planning, coordination, and implementation of the commercial test management
-        system ***“Silk Central Test Management (SCTM)”***.
-      - Planning the technical implementation of a ***test hardware management system***
+      - Introducing continuous improvement measures to increase efficiency and quality
+        of results across various teams.
+      - Planning, coordination, and **implementation of the commercial test management
+        system** "Silk Central Test Management (SCTM)."
+      - Planning the technical implementation of a **test hardware management system**
         for SCTM.
-      - Conducting compelling ***presentations*** on concepts, progress reports, results,
+      - Conducting compelling **presentations** on concepts, progress reports, results,
         and key insights for stakeholders.
+      - '**Open Loop Testing Toolchain (OLTT):**'
+      - Conceptualization, design, and development of a web interface for a scene
+        database.
+      - Programming of web interfaces in PHP in close coordination with project management.
+      - Detailed documentation of processes for handover to the project manager.
+      - '**Test Automation Zoo (TAZ):**'
+      - Leading discussions with departments (project management, development, integration)
+        to design automated test tools (the zoo).
+      - Leading the team as Product Owner and Scrum Master to develop the "Test Automation
+        Zoo" test toolchain.
+      - '**DevOps Project:**'
+      - Coordination of CI tool setup across departments (project management, development,
+        integration).
+      - Leading the team as Product Owner regarding the implementation of Continuous
+        Integration (CI) and Continuous Delivery (CD) pipelines.
     - company: Elektrobit Automotive GmbH
       position: Software Developer
       date: null
       start_date: 2011-01
       end_date: 2011-11
       location: Böblingen
-      summary: '*Expert in test automation and framework development, optimizing testing
-        processes and delivering efficient solutions for software quality.*'
+      summary: '*Automation of tests and framework development.*'
       highlights:
-      - Extension and maintenance of the street-director - ***Testframework*** to
-        adapt to evolving project requirements.
-      - Porting the test framework from ***Win32 to Linux/QNX environments*** to improve
+      - Extension and maintenance of the street-director **test framework** to adapt
+        to evolving project requirements.
+      - Porting the test framework from **Win32 to Linux/QNX environments** to improve
         compatibility.
-      - Development and optimization of software for ***test automation*** to increase
+      - Development and optimization of software for **test automation** to increase
         efficiency.
-      - Improvement of test tools to optimize the ***distribution of devices*** during
-        test runtime.
-      - '***Redesign of the test structure*** to adapt to changing requirements and
-        project frameworks.'
-      - Creation, execution, evaluation, and documentation of ***automated tests***
+      - Improvement of test tools to optimize **device distribution** during test
+        runtime.
+      - '**Redesign of the test structure** to adapt to changing requirements and
+        project conditions.'
+      - Creation, execution, evaluation, and documentation of **automated tests**
         for various projects.
-      - Development of test applications for ***performance and stress tests*** to
-        ensure system reliability.
-      - '***Parallelization of tests*** on a single test computer to optimize resource
-        utilization.'
-      - Setup of devices from the MISS project for ***automated test pipelines***.
-      - Execution of ***memory measurements*** as part of the MISS project to ensure
-        compliance with project-specific memory limits.
-      - Conception and development of a web-based ***job execution system*** to automate
-        test tasks.
-      - Introduction of a new ***software development process*** to improve efficiency
+      - Development of test applications for **performance and stress tests** to ensure
+        system reliability.
+      - '**Parallelization of tests** on a single test computer to optimize resource
+        usage.'
+      - Setup of devices from the MISS project for **automated test pipelines**.
+      - Conducting **memory measurements** as part of the MISS project to ensure compliance
+        with project-specific memory limits.
+      - Conceptualization and development of a web-based **job execution system**
+        to automate test tasks.
+      - Introduction of a new **software development process** to improve efficiency
         and collaboration between teams.
-      - Integration of target hardware into the test framework for ***hardware-based
-        test runs***.
-      - Support in ***testing and quality assurance measures*** for navigation projects
-        in the automotive sector, to ensure project goals.
-      - '***Evaluation and analysis*** of various test results to identify and coordinate
-        software errors with developers.'
+      - Integration of target hardware into the test framework for **hardware-based
+        test runs**.
+      - Supporting **tests and quality assurance measures** for automotive navigation
+        projects to ensure project goals are met.
+      - '**Evaluation and analysis** of various test results to identify and align
+        software issues with developers.'
+    - company: " "
+      position: " "
+      location: " "
+      summary: " "
+    - company: " "
+      position: " "
+      location: " "
+      summary: " "
     - company: Elektrobit Automotive GmbH
       position: Software Developer
       date: null
       start_date: 2007-10
       end_date: 2010-12
       location: Erlangen
-      summary: '*Experienced test developer performing functional and performance
-        tests and developing test tools to increase efficiency.*'
+      summary: '*Conducting functional and performance tests and developing test tools
+        to increase efficiency.*'
       highlights:
-      - Development and execution of ***functional, performance, and stress tests***
+      - Development and execution of **functional, performance, and stress tests**
         to ensure system reliability.
-      - Performing performance tests for the ***AudiRMC and MIBS projects*** and coordinating
-        the results with the project managers and software developers to improve the
-        speed of route calculation.
-      - Execution of functional, performance, and stress tests for the ***Falk project***
+      - Conducting performance tests for the **AudiRMC and MIBS projects** and aligning
+        results with project stakeholders and software developers to improve route
+        calculation speed.
+      - Execution of functional, performance, and stress tests for the **Falk project**
         to validate system stability and speed.
-      - Conception and implementation of functional ***maneuver tests*** to improve
+      - Conceptualization and implementation of functional **maneuver tests** to improve
         test accuracy.
-      - Conception and implementation of an algorithm for ***validating route calculations***
-        in the street-director project in C/C++.
+      - Conceptualization and implementation of an algorithm for **validating route
+        calculations** in the street-director project in C/C++.
       - Optimization and maintenance of the existing street-director test structure
         to adapt to evolving project requirements.
-      - Integration of devices into the test framework for ***hardware-based test
-        runs***.
-      - Development of a test tool for ***automatic device distribution*** during
-        runtime to increase resource efficiency.
-      - Successful integration support for the ***MIBH project*** to achieve project
+      - Integration of devices into the test framework for **hardware-based test runs**.
+      - Development of a test tool for **automatic device distribution** during runtime
+        to increase resource efficiency.
+      - Successful integration support for the **MIBH project** to achieve project
         goals.
-      - Expansion of ***performance and stress test reports*** to provide software
-        developers with comprehensive analyses for troubleshooting and speed optimization.
+      - Extension of **performance and stress test reports** to provide software developers
+        with comprehensive analyses for debugging and speed optimization.
     - company: Forschung Entwicklung Technik Service GmbH
       position: Web Developer
       date: null
@@ -190,11 +217,11 @@ cv:
       location: Waiblingen
       summary: '*Development and implementation of a customizable web engine*'
       highlights:
-      - Development and implementation of a customizable ***web engine*** using PHP,
-        HTML, CSS, JavaScript, and SQL for creating customized customer websites.
-      - Successful implementation of ***customer projects*** through the design and
-        programming of powerful, database-driven websites with modern web technologies
-        and the mentioned web engine.
+      - Development and implementation of a customizable **web engine** using PHP,
+        HTML, CSS, JavaScript, and SQL to create tailored customer websites.
+      - Successful implementation of **customer projects** by designing and programming
+        powerful, database-driven websites with modern web technologies and the mentioned
+        web engine.
     - company: Forschung Entwicklung Technik Service GmbH
       position: Web Developer (Internship)
       date: null
@@ -234,14 +261,14 @@ cv:
     - label: Languages
       details: German (native), English (fluent)
 design:
-  theme: engineeringclassic
+  theme: classic
   page:
     size: a4
     top_margin: 2cm
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: false
+    show_page_numbering: true
     show_last_updated_date: true
   colors:
     text: rgb(0, 0, 0)
@@ -258,11 +285,11 @@ design:
     date_and_location_column_alignment: right
   links:
     underline: false
-    use_external_link_icon: false
+    use_external_link_icon: true
   header:
     name_font_family: Raleway
     name_font_size: 30pt
-    name_bold: false
+    name_bold: true
     photo_width: 3.5cm
     vertical_space_between_name_and_connections: 0.7cm
     vertical_space_between_connections_and_first_section: 0.7cm
@@ -270,12 +297,12 @@ design:
     connections_font_family: Raleway
     separator_between_connections: ''
     use_icons_for_connections: true
-    alignment: left
+    alignment: center
   section_titles:
     type: with-parial-line
     font_family: Raleway
     font_size: 1.4em
-    bold: false
+    bold: true
     small_caps: false
     line_thickness: 0.5pt
     vertical_space_above: 0.5cm
@@ -292,7 +319,7 @@ design:
   highlights:
     bullet: •
     top_margin: 0.25cm
-    left_margin: 0cm
+    left_margin: 0.4cm
     vertical_space_between_highlights: 0.25cm
     horizontal_space_between_bullet_and_highlight: 0.5em
     summary_left_margin: 0cm
@@ -300,25 +327,31 @@ design:
     one_line_entry:
       template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, AREA -- LOCATION'
+      main_column_first_row_template: '**INSTITUTION**, AREA'
       degree_column_template: '**DEGREE**'
       degree_column_width: 3cm
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     normal_entry:
-      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_first_row_template: '**NAME**'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     experience_entry:
-      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_first_row_template: '**COMPANY**, POSITION'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     publication_entry:
       main_column_first_row_template: '**TITLE**'
       main_column_second_row_template: 'AUTHORS
@@ -370,6 +403,6 @@ locale:
   - November
   - December
 rendercv_settings:
-  date: '2025-04-12'
+  date: '2025-04-13'
   render_command: null
   bold_keywords: []

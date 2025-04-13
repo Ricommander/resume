@@ -3,8 +3,8 @@ import os
 from collections import OrderedDict
 
 # Sensitive data (use locally only)
-PHONE_NUMBER = "+49-123-456-7891"
-EMAIL = "email@email.de"
+PHONE_NUMBER = "+49-173-333-4444"
+EMAIL = "meinemail@postfach.de"
 
 # Custom Dumper to preserve key order
 class OrderedDumper(yaml.Dumper):

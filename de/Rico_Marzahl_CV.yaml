@@ -1,8 +1,8 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: 
-  phone: 
+  email: meinemail@postfach.de
+  phone: +49-173-333-4444
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
   social_networks:
   - network: LinkedIn
@@ -11,22 +11,23 @@ cv:
     username: Ricommander
   sections:
     berufliches_profil:
-    - Erfahrener Product Owner und Automatisierungsexperte mit über 17 Jahren Erfahrung
+    - Erfahrener Product Owner und Automatisierungsexperte mit über 17 Jahren Expertise
       in Softwareentwicklung, Qualitätssicherung und agilen Methoden (SAFe, Scrum,
-      Kanban). Nachgewiesene Fähigkeit, agile technische Projekte zu leiten, Kundenanforderungen
-      umzusetzen und DevOps-Strategien (Automatisierung, Everything as Code (EaC))
-      zu implementieren. Erfolgreich in der Entwicklung technischer Lösungen, die
-      optimal auf geschäftliche Anforderungen abgestimmt sind.
+      Kanban). Nachgewiesene Fähigkeit zur Leitung technischer Projekte als Product
+      Owner, Umsetzung von Kundenanforderungen sowie Implementierung von DevOps-Strategien
+      (Everything as Code (EaC), Automatisierung, Monitoring). Erfolgreich in der
+      Entwicklung technischer Lösungen, die durch effektive Kommunikation und strategisches
+      Denken optimal auf geschäftliche Anforderungen abgestimmt sind.
     kernkompetenzen:
     - label: Product Owner
       details: Kosten-Nutzen-Optimierung, Backlog-Management, Stakeholder-Management,
         Produktvision, Agile-Methoden (SAFe, Scrum, Kanban)
     - label: DevOps
-      details: CI/CD, Monitoring (Lead Change Time, User Statistics), Everything as
-        Code (EaC)
+      details: Automatisierungsstrategien, Monitoring und Everything as Code (EaC),
+        CI/CD, Software Development Environments
     - label: Qualitätssicherung
       details: Testautomatisierung, umfassende Teststrategien (Performance, Stress,
-        Funktionalität), Reporting
+        Funktionalität), Hardware Integration
     - label: Effektive Kommunikation
       details: Präsentationen, Problemlösung, analytisches und lösungsorientiertes
         Denken
@@ -40,20 +41,42 @@ cv:
       summary: '*Leitung agiler Projekte und Entwicklung innovativer CI/CD-Lösungen
         mit KI-gestützten Tools.*'
       highlights:
-      - "Leitung der folgenden wichtigen agilen Projekte die alle erfolgreich unter
-        Budget abgeschlossen wurden:"
-      - Entwicklung und Optimierung von ***CI-Pipelines*** für Qualitätssicherung
-        und Builds (Conti-CIP, MBition-TAU).
-      - Entwicklung einer Plattform für ***vereinheitlichte Entwicklungs- und CI-Umgebungen***
-        (EB-Simplifiers).
-      - Refactoring einer ***zentralen Softwareeinheit*** zur Standardisierung von
-        Modul- und App-Management (MB-SWAF).
-      - Analyse von Kundenanforderungen und ***teilautomatisierte Erstellung von Angeboten***
+      - 'Leitung der folgenden wichtigen agilen Projekte die alle erfolgreich unter
+        Budget abgeschlossen wurden:'
+      - '**Continental – Continuous Integration Platform:** Entwicklung und Optimierung
+        von CI-Pipelines für Qualitätssicherung, Berichterstellung und Builds.'
+      - '**MBition – Test Automation:** Neuentwicklung einer CI-Engine für Qualitätsprüfungen,
+        Richtlinien, Monitoring-Dashboards, Hardware-Flashing und Testfallentwicklung.'
+      - '**Elektrobit – Simplifiers:** Entwicklung einer Plattform für vereinheitlichte
+        Entwicklungs- und CI-Umgebungen mit Shift-Left Ansatz.'
+      - '**Mercedes-Benz – Software Architecture Framework:** Refactoring einer zentralen
+        Softwareeinheit zur Standardisierung von Modul- und App-Management.'
+      - Analyse von Kundenanforderungen und **teilautomatisierte Erstellung von Angeboten**
         für CI/CD-Lösungen.
-      - Entwicklung von Tools zur Angebotserstellung mit ***künstlicher Intelligenz
-        (KI)***.
-      - Durchführung überzeugender ***Präsentationen*** zu Konzepten und Ergebnissen
+      - Entwicklung von Tools zur Angebotserstellung mit **künstlicher Intelligenz
+        (KI)**.
+      - Durchführung überzeugender **Präsentationen** zu Konzepten und Ergebnissen
         für Stakeholder.
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
     - company: Elektrobit Automotive GmbH
       position: Senior Softwareentwickler | Product Owner
       date: null
@@ -62,26 +85,26 @@ cv:
       location: Böblingen
       summary: '*Erfolgreiche Umsetzung von Produktvisionen und Optimierung von Testprozessen.*'
       highlights:
-      - Entwicklung klarer ***Produktvisionen*** und Umsetzung des agilen ***Lean
-        Development Models (LDM)***.
-      - Umsetzung von Anforderungen und Verwaltung von ***Backlogs***.
-      - Optimierung von Verifikationstests für ***Curve-Entry-Analysen*** (Leistungssteigerung
-        um ***69 %***).
+      - Entwicklung klarer **Produktvisionen** und Umsetzung des agilen **Lean Development
+        Models (LDM)**.
+      - Umsetzung von Anforderungen und Verwaltung von **Backlogs**.
+      - Optimierung von Verifikationstests für **Curve-Entry-Analysen** (Leistungssteigerung
+        um **69 %**).
       - Einführung von Prozessen zur Verbesserung der Codequalität und Dokumentation.
-      - Planung und Implementierung von ***Lua-basierten Tests*** sowie Durchführung
-        von ***Performance-Tests***.
+      - Planung und Implementierung von **Lua-basierten Tests** sowie Durchführung
+        von **Performance-Tests**.
     - company: Elektrobit Automotive GmbH
       position: Softwareentwickler
       date: null
       start_date: 2007-10
       end_date: 2011-11
       location: Erlangen/Böblingen
-      summary: '*Experte in Testautomatisierung und Framework-Entwicklung.*'
+      summary: '*Automatisierung von Tests und Framework-Entwicklung.*'
       highlights:
-      - Erweiterung und Wartung des street-director ***Testframeworks***.
+      - Erweiterung und Wartung des street-director **Testframeworks**.
       - Portierung des Testframeworks von Windows auf Linux-/QNX-Umgebungen.
-      - Entwicklung von Tools zur ***Testautomatisierung*** und Optimierung der Ressourcennutzung.
-      - Konzeption und Entwicklung eines webbasierten ***Job-Ausführungssystems***.
+      - Entwicklung von Tools zur **Testautomatisierung** und Optimierung der Ressourcennutzung.
+      - Konzeption und Entwicklung eines webbasierten **Job-Ausführungssystems**.
     ausbildung:
     - institution: Process-Informatik Entwicklungsgesellschaft mbH
       area: Fachinformatiker – Anwendungsentwicklung
@@ -105,14 +128,14 @@ cv:
     - label: Sprachen
       details: Deutsch (Muttersprache), Englisch (fließend)
 design:
-  theme: engineeringclassic
+  theme: classic
   page:
     size: a4
     top_margin: 2cm
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: false
+    show_page_numbering: true
     show_last_updated_date: true
   colors:
     text: rgb(0, 0, 0)
@@ -129,11 +152,11 @@ design:
     date_and_location_column_alignment: right
   links:
     underline: false
-    use_external_link_icon: false
+    use_external_link_icon: true
   header:
     name_font_family: Raleway
     name_font_size: 30pt
-    name_bold: false
+    name_bold: true
     photo_width: 3.5cm
     vertical_space_between_name_and_connections: 0.7cm
     vertical_space_between_connections_and_first_section: 0.7cm
@@ -141,12 +164,12 @@ design:
     connections_font_family: Raleway
     separator_between_connections: ''
     use_icons_for_connections: true
-    alignment: left
+    alignment: center
   section_titles:
     type: with-parial-line
     font_family: Raleway
     font_size: 1.4em
-    bold: false
+    bold: true
     small_caps: false
     line_thickness: 0.5pt
     vertical_space_above: 0.5cm
@@ -163,7 +186,7 @@ design:
   highlights:
     bullet: •
     top_margin: 0.25cm
-    left_margin: 0cm
+    left_margin: 0.4cm
     vertical_space_between_highlights: 0.25cm
     horizontal_space_between_bullet_and_highlight: 0.5em
     summary_left_margin: 0cm
@@ -171,25 +194,31 @@ design:
     one_line_entry:
       template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, AREA -- LOCATION'
+      main_column_first_row_template: '**INSTITUTION**, AREA'
       degree_column_template: '**DEGREE**'
       degree_column_width: 2cm
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     normal_entry:
-      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_first_row_template: '**NAME**'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     experience_entry:
-      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_first_row_template: '**COMPANY**, POSITION'
       main_column_second_row_template: 'SUMMARY
 
         HIGHLIGHTS'
-      date_and_location_column_template: DATE
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     publication_entry:
       main_column_first_row_template: '**TITLE**'
       main_column_second_row_template: 'AUTHORS
@@ -206,7 +235,7 @@ locale:
   language: de
   phone_number_format: national
   page_numbering_template: NAME - Seite PAGE_NUMBER von TOTAL_PAGES
-  last_updated_date_template: Zuletzt aktualisiert am TODAY
+  last_updated_date_template: Zuletzt aktualisiert im TODAY
   date_template: MONTH_ABBREVIATION YEAR
   month: Monat
   months: Monate
@@ -241,6 +270,6 @@ locale:
   - November
   - Dezember
 rendercv_settings:
-  date: '2025-04-10'
+  date: '2025-04-13'
   render_command: null
   bold_keywords: []
