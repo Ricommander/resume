@@ -1,9 +1,10 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: meinemail@postfach.de
-  phone: +49-173-333-4444
+  email: meineemail@email.me
+  phone: +49-172-222-3333
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
+  photo: profile_picture.jpg
   social_networks:
   - network: LinkedIn
     username: rico-marzahl
@@ -31,6 +32,38 @@ cv:
     - label: Effektive Kommunikation
       details: Präsentationen, Problemlösung, analytisches und lösungsorientiertes
         Denken
+    skills:
+    - label: Agile Methoden
+      details: SAFe, Scrum, Kanban
+    - label: Programmierung
+      details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
+    - label: Tools
+      details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, MS Power BI,
+        MS Office
+    - label: Sprachen
+      details: German (native), English (fluent)
+    erfolge als Product Owner:
+    - name: für Elektrobit
+      highlights:
+      - Entwicklung einer Plattform für vereinheitlichte Entwicklungs- und CI-Umgebungen
+        mit Shift-Left Ansatz (ca. ~4000 Starts pro Woche).
+      - Entwicklung der „Test Automation Zoo“-Testtoolchain zur Integration der Silk
+        Central Test Management Application in bestehende Projekte.
+      - Setup von CI-Tools (Jenkins) und Pipelines für diverse Projekte über Abteilungen
+        hinweg.
+    - name: für Mercedes-Benz
+      highlights:
+      - Refactoring einer zentralen Softwareeinheit zur Standardisierung von Modul-
+        und App-Management.
+    - name: für MBition
+      highlights:
+      - Neuentwicklung einer CI-Engine für Qualitätsprüfungen, Richtlinien, Monitoring-Dashboards,
+        Hardware-Flashing und Testfallentwicklung.
+    - name: für Continental
+      highlights:
+      - Entwicklung und Optimierung von CI-Pipelines für Qualitätssicherung, Berichterstellung
+        und Builds.
+    - name: ''
     berufserfahrung:
     - company: Elektrobit Automotive GmbH
       position: Experte | Product Owner
@@ -43,18 +76,18 @@ cv:
       highlights:
       - 'Leitung der folgenden wichtigen agilen Projekte die alle erfolgreich unter
         Budget abgeschlossen wurden:'
-      - '**Continental – Continuous Integration Platform (Conti-CIP)** (02/2020–01/2023):
-        Entwicklung und Optimierung von CI-Pipelines für Qualitätssicherung, Berichterstellung
-        und Builds.'
-      - '**MBition – Test Automation (MBition-TAU)** (01/2021–01/2023): Neuentwicklung
-        einer CI-Engine für Qualitätsprüfungen, Richtlinien, Monitoring-Dashboards,
-        Hardware-Flashing und Testfallentwicklung.'
       - '**Elektrobit – Simplifiers (EB-Simplifiers)** (02/2023–04/2025): Entwicklung
         einer Plattform für vereinheitlichte Entwicklungs- und CI-Umgebungen mit Shift-Left
         Ansatz.'
       - '**Mercedes-Benz – Software Architecture Framework (MB-SWAF)** (03/2024–12/2024):
         Refactoring einer zentralen Softwareeinheit zur Standardisierung von Modul-
         und App-Management.'
+      - '**MBition – Test Automation (MBition-TAU)** (01/2021–01/2023): Neuentwicklung
+        einer CI-Engine für Qualitätsprüfungen, Richtlinien, Monitoring-Dashboards,
+        Hardware-Flashing und Testfallentwicklung.'
+      - '**Continental – Continuous Integration Platform (Conti-CIP)** (02/2020–01/2023):
+        Entwicklung und Optimierung von CI-Pipelines für Qualitätssicherung, Berichterstellung
+        und Builds.'
       - '**Koordination der Rechnungsstellung** mit Kunden zur Gewährleistung korrekter
         Abrechnungen und für einen frühzeitigen Ausblick über das Restbudget.'
       - Identifikation von Schwachstellen und Präsentation von Lösungen **zur Sicherung
@@ -136,7 +169,7 @@ cv:
       - Leitung des Teams als Product Owner und Scrum Master zur Entwicklung der „Test
         Automation Zoo“-Testtoolchain.
       - '**DevOps-Projekt:**'
-      - Koordination des Setups von CI-Werkzeugen über Abteilungen hinweg (Projektmanagement,
+      - Koordination des Setups von CI-Tools über Abteilungen hinweg (Projektmanagement,
         Entwicklung, Integration).
       - Leitung des Teams als Product Owner bzgl. der Implementierung von Continuous
         Integration (CI)- und Continuous Delivery (CD) - Pipelines.
@@ -184,7 +217,7 @@ cv:
       end_date: 2010-12
       location: Erlangen
       summary: '*Durchführung von funktionalen und Performance-Tests und Entwicklung
-        von Testwerkzeugen zur Effizienzsteigerung.*'
+        von Testtools zur Effizienzsteigerung.*'
       highlights:
       - Entwicklung und Durchführung von **funktionalen, Performance- und Stresstests**
         zur Sicherstellung der Systemzuverlässigkeit.
@@ -249,14 +282,44 @@ cv:
       start_date: 1999-09
       end_date: 2001-08
       location: Nürtingen
-    skills:
-    - label: Programming
-      details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
-    - label: Tools
-      details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, Microsoft Power
-        BI, MS Office
-    - label: Languages
-      details: German (native), English (fluent)
+    Firmenprofile:
+    - title: Elektrobit Automotive GmbH
+      url: https://www.elektrobit.com/
+      authors:
+      - Elektrobit ist ein weltweit tätiger Anbieter von Embedded- und vernetzten
+        Technologielösungen für die Automobilindustrie.
+    - title: Forschung Entwicklung Technik Service GmbH
+      authors:
+      - Die Forschung Entwicklung Technik Service GmbH hat Webseiten für verschiedene
+        Kunden entwickelt und gepflegt sowie eine Jobportal-Plattform betrieben. Dieses
+        Unternehmen existiert nicht mehr.
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: Esslingen, 28.04.2025
+      authors:
+      - ' '
 design:
   theme: classic
   page:

@@ -1,9 +1,10 @@
 cv:
   name: Rico Marzahl
   location: Esslingen, Baden-Württemberg
-  email: meinemail@postfach.de
-  phone: +49-173-333-4444
+  email: meineemail@email.me
+  phone: +49-172-222-3333
   website: https://github.com/Ricommander/resume/tree/rico_marzahl
+  photo: profile_picture.jpg
   social_networks:
   - network: LinkedIn
     username: rico-marzahl
@@ -30,6 +31,38 @@ cv:
         functionality), hardware integration
     - label: Effective Communication
       details: Presentations, problem-solving, analytical and solution-oriented thinking
+    Key Skills:
+    - label: Agile Methods
+      details: SAFe, Scrum, Kanban
+    - label: Programming
+      details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
+    - label: Tools
+      details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, MS Power BI,
+        MS Office
+    - label: Languages
+      details: German (native), English (fluent)
+    Key Achievements as Product Owner:
+    - name: for Elektrobit
+      highlights:
+      - Development of a platform for unified development and CI environments with
+        a shift-left approach (approx. ~4,000 launches per week).
+      - Development of the "Test Automation Zoo" test toolchain for integrating the
+        Silk Central Test Management Application into existing projects.
+      - Setup of CI tools (Jenkins) and pipelines for various projects across departments.
+    - name: for Mercedes-Benz
+      highlights:
+      - Refactoring of a central software unit to standardize module and app management.
+    - name: for MBition
+      highlights:
+      - Redevelopment of a CI engine for quality checks, policies, monitoring dashboards,
+        hardware flashing, and test case development.
+    - name: for Continental
+      highlights:
+      - Development and optimization of CI pipelines for quality assurance, reporting,
+        and builds.
+    - name: ''
+    - name: ''
+    - name: ''
     professional_experience:
     - company: Elektrobit Automotive GmbH
       position: Expert | Product Owner
@@ -41,17 +74,17 @@ cv:
         with AI-powered tools.*'
       highlights:
       - 'Led the following key agile projects, all successfully completed under budget:'
-      - '**Continental – Continuous Integration Platform (Conti-CIP)** (02/2020–01/2023):
-        Development and optimization of CI pipelines for quality assurance, reporting,
-        and builds.'
-      - '**MBition – Test Automation (MBition-TAU)** (01/2021–01/2023): New development
-        of a CI engine for quality checks, guidelines, monitoring dashboards, hardware
-        flashing, and test case development.'
       - '**Elektrobit – Simplifiers (EB-Simplifiers)** (02/2023–04/2025): Development
         of a platform for unified development and CI environments with a shift-left
         approach.'
       - '**Mercedes-Benz – Software Architecture Framework (MB-SWAF)** (03/2024–12/2024):
         Refactoring of a central software unit for standardizing module and app management.'
+      - '**MBition – Test Automation (MBition-TAU)** (01/2021–01/2023): New development
+        of a CI engine for quality checks, guidelines, monitoring dashboards, hardware
+        flashing, and test case development.'
+      - '**Continental – Continuous Integration Platform (Conti-CIP)** (02/2020–01/2023):
+        Development and optimization of CI pipelines for quality assurance, reporting,
+        and builds.'
       - '**Coordination of invoicing** with customers to ensure accurate billing and
         provide an early outlook on remaining budgets.'
       - Identification of weaknesses and presentation of solutions **to secure follow-up
@@ -172,14 +205,14 @@ cv:
         projects to ensure project goals are met.
       - '**Evaluation and analysis** of various test results to identify and align
         software issues with developers.'
-    - company: " "
-      position: " "
-      location: " "
-      summary: " "
-    - company: " "
-      position: " "
-      location: " "
-      summary: " "
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
+    - company: ' '
+      position: ' '
+      location: ' '
+      summary: ' '
     - company: Elektrobit Automotive GmbH
       position: Software Developer
       date: null
@@ -252,14 +285,44 @@ cv:
       start_date: 1999-09
       end_date: 2001-08
       location: Nürtingen
-    skills:
-    - label: Programming
-      details: Python, C/C++, SQL, PHP, JavaScript, Go, HTML, XML
-    - label: Tools
-      details: Jenkins, git, Docker, devcontainer, JIRA, Confluence, Microsoft Power
-        BI, MS Office
-    - label: Languages
-      details: German (native), English (fluent)
+    Company profiles:
+    - title: Elektrobit Automotive GmbH
+      url: https://www.elektrobit.com/
+      authors:
+      - Elektrobit is a global supplier of embedded and connected technology solutions
+        for the automotive industry.
+    - title: Forschung Entwicklung Technik Service GmbH
+      authors:
+      - Forschung Entwicklung Technik Service GmbH developed and maintained websites
+        for various clients, as well as running a job portal platform. This company
+        no longer exists.
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: ' '
+      authors:
+      - ' '
+    - title: Esslingen, 28.04.2025
+      authors:
+      - ' '
 design:
   theme: classic
   page:
